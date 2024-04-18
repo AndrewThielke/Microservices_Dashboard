@@ -61,10 +61,6 @@ Log in using your credentials to view and interact with the system metrics.
 
 Contributions are welcome! Please read the contributing guidelines in CONTRIBUTING.md to learn how to propose bugfixes and improvements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Author
 
 Andrew Thielke
